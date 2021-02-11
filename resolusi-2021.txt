@@ -2,5 +2,5 @@ Resolusi 2021
 - konsisten belajar dasar dasar html, css, javascript
 - mengimplementasikan hasil belajar dasar html, css, javascript
 - mengikuti webinar2 gratis tentang TI
-- membeli laptop
 - memperdalam ilmu dgn mengikuti lebih banyak webinar dan video2 tutorial seputar TI
+- membuat project2 baru
