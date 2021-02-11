@@ -1,0 +1,5 @@
+Rencan pembelajarn
+- Javascript
+- framework
+- API
+- UI/UX
