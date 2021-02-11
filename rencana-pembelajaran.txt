@@ -1,4 +1,5 @@
 Rencan pembelajarn
+- bahasa inggris
 - Javascript
   - DOM
   - lanjutan
