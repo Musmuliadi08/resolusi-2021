@@ -4,5 +4,8 @@ Rencan pembelajarn
   - DOM
   - lanjutan
 - framework
-  -boostrap
+  - boostrap
+  - laravel
 - API
+- UI/UX
+- visual studi code
